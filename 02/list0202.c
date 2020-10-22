@@ -1,3 +1,4 @@
+/* 二分探索法による探索 */
 #include <stdio.h>
 #include <stdlib.h>
 
